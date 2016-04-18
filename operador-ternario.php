@@ -1,5 +1,5 @@
 <?php
-$acesso = 0;
+$acesso = 1;
 echo 'usuario ';
 echo($acesso > 0) ? 'registro' : 'não registrado';
 
